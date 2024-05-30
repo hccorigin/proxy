@@ -2,14 +2,6 @@
 * Nginx 소스코드를 다운받아서 컴파일 하여 설치합니다.
 * Nginx 확장 모듈 소스코드를 다운받아서 컴파일 하여 설치합니다.
 
-# Account
-* gitlab.example.com:9080
-    - root/vkfkd123
-* github for origin repository
-    - hccorigin / origin1@#
-* dockerhub for origin repository
-    - hccorigin / origin!@#
-
 
 # build to docker image
 ```
